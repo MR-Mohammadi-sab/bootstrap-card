@@ -1,0 +1,7 @@
+.container{
+    margin-top:40px;
+    width: 60%;
+}
+body{
+    background: linear-gradient(to left,white,black);
+}
